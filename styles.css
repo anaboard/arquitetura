@@ -2,8 +2,8 @@ body{
 background-color: bisque;
 color: black;
 .container{
-    max: width 800px; ;
-marging:0 auto;
+    max-width 800px; ;
+margin:0 auto;
 text-align: justify;
 padding: 20px;
 
